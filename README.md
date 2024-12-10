@@ -26,7 +26,7 @@ We thus need to determine:
 
  - [clingo](https://github.com/potassco/clingo)
  - [Python](https://www.python.org/)
- - [Docker](https://www.docker.com/) (for development only)
+ - [Docker](https://www.docker.com/)
 
 ## Running
 
