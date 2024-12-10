@@ -61,14 +61,13 @@ OPTIMUM FOUND
 ...
 ```
 
-This tells us that, after 11 iterations, we found a shortest set of breeding
-steps:
+This tells us that we found a the shortest set of breeding steps:
 
 - `togetic` / `skitty`
 - `skity` / `eevee`
 
 This means we need to:
- - obtain a male Togetic that has learned he move Wish (which it can do via level-up),
+ - obtain a male Togetic that has learned the move Wish (which it can do via level-up),
  - breed it wih a female Skitty to obtain a male Skitty wih Wish.
  - breed this male Skitty wih a female Eevee to obtain an Eevee wih Wish.
 
